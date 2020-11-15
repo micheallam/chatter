@@ -1,5 +1,5 @@
-# Object file
-*.o
+# Docker
+*.devcontainer
 
-# Ada Library Information
-*.ali
+# Node
+*.node_modules
